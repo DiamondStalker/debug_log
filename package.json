@@ -1,0 +1,22 @@
+{
+  "name": "diamondstalker-logger",
+  "version": "1.0.1",
+  "description": "Create a new file type .log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiamondStalker/debug_log.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "DiamondStalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiamondStalker/debug_log/issues"
+  },
+  "homepage": "https://github.com/DiamondStalker/debug_log#readme"
+}
